@@ -2,6 +2,10 @@
 
 TechShop is an online marketplace for tech products where users can buy and sell various items. This project implements a NoSQL database using MongoDB to store and manage data for TechShop. The database stores information about users, products, and transactions.
 
+## Visualization
+
+![alt text](image.png)
+
 ## Project Structure
 ```
 No_sql_assignment/
