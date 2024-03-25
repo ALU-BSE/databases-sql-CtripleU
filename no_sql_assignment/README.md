@@ -12,6 +12,7 @@ No_sql_assignment/
 │   └── transaction.model.js
 ├── queries.js
 ├── package.json
+├── schema_visualization.md
 └── README.md
 ```
 
@@ -19,6 +20,7 @@ No_sql_assignment/
 - models/: Contains the Mongoose schema definitions for the Users, Products, and Transactions collections.
 - queries.js: Contains the advanced MongoDB queries for various operations.
 - package.json: Defines the project dependencies.
+- schema_visualization.md: Contains a visualization of the database.
 - README.md: This file, containing the project documentation.
 
 ## Database Schema
